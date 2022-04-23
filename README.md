@@ -3,6 +3,7 @@ A collection of every resource I've come across when developing websites.
 
 
 ## Favicon Resources
+- [Real Favicon Generator](https://realfavicongenerator.net/)
 - [Favicon Generator](https://www.favicon.cc/) 
 - [Favicon Converter](https://favicon.io/favicon-converter/)
 
