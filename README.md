@@ -1,2 +1,2 @@
-# dev-resources
-A collection of everything a dev would need when developing a website.
+# Dev-resources
+A collection of every resource I've come across when developing websites.
