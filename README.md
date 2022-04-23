@@ -12,6 +12,7 @@ A collection of every resource I've come across when developing websites.
 
 ## Text
 - [Lorem Ipsum Generator](https://loremipsum.io/)
+- [README Template](https://www.makeareadme.com/)
 
 ## Fonts
 - [Google Fonts](https://fonts.google.com/)
